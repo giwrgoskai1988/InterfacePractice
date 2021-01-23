@@ -1,6 +1,4 @@
-﻿using IPractice.Food;
-
-namespace IPractice
+﻿namespace IPractice
 {
     class Program
     {

@@ -45,6 +45,12 @@
   <ItemGroup>
     <Compile Include="Food\IFastFood.cs" />
     <Compile Include="Food\Ingredients.cs" />
+    <Compile Include="Fullnheritance\A.cs" />
+    <Compile Include="Fullnheritance\B.cs" />
+    <Compile Include="Fullnheritance\C.cs" />
+    <Compile Include="Fullnheritance\ClassA.cs" />
+    <Compile Include="Fullnheritance\ClassB.cs" />
+    <Compile Include="Fullnheritance\D.cs" />
     <Compile Include="Simple\Dumb.cs" />
     <Compile Include="Simple\IDummy.cs" />
     <Compile Include="Program.cs" />

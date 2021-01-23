@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace IPractice.Food
 {
@@ -46,15 +42,15 @@ namespace IPractice.Food
             FastFood();
             Console.WriteLine("Sandwich");
         }
-        public static void Main()
-        {
-            IFastFood f = new Sandwich();
+        //public static void Main()
+        //{
+        //    IFastFood f = new Sandwich();
 
-            f.FastFood();
-            Console.WriteLine("------------------------------------------------------------------------------------------------------------");
-            Sandwich a = new Sandwich();
-            a.FastFood();
-        }
+        //    f.FastFood();
+        //    Console.WriteLine("------------------------------------------------------------------------------------------------------------");
+        //    Sandwich a = new Sandwich();
+        //    a.FastFood();
+        //}
 
         public void FastFood()
         {

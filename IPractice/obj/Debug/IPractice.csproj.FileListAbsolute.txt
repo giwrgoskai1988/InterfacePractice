@@ -5,3 +5,10 @@ C:\Users\Α\source\repos\IPractice\IPractice\bin\Debug\IPractice.exe
 C:\Users\Α\source\repos\IPractice\IPractice\bin\Debug\IPractice.pdb
 C:\Users\Α\source\repos\IPractice\IPractice\obj\Debug\IPractice.exe
 C:\Users\Α\source\repos\IPractice\IPractice\obj\Debug\IPractice.pdb
+C:\Users\Α\source\repos\MyGit\InterfacePractice\IPractice\obj\Debug\IPractice.csprojAssemblyReference.cache
+C:\Users\Α\source\repos\MyGit\InterfacePractice\IPractice\obj\Debug\IPractice.csproj.CoreCompileInputs.cache
+C:\Users\Α\source\repos\MyGit\InterfacePractice\IPractice\obj\Debug\IPractice.exe
+C:\Users\Α\source\repos\MyGit\InterfacePractice\IPractice\obj\Debug\IPractice.pdb
+C:\Users\Α\source\repos\MyGit\InterfacePractice\IPractice\bin\Debug\IPractice.exe.config
+C:\Users\Α\source\repos\MyGit\InterfacePractice\IPractice\bin\Debug\IPractice.exe
+C:\Users\Α\source\repos\MyGit\InterfacePractice\IPractice\bin\Debug\IPractice.pdb
