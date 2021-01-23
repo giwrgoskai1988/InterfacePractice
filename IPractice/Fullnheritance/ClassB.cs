@@ -42,6 +42,10 @@ namespace IPractice.Fullnheritance
         }
 
 
+        ~ClassB()
+        {
+            Console.WriteLine("Done");
+        }
 
         static void Main()
         {
@@ -50,7 +54,8 @@ namespace IPractice.Fullnheritance
             M2(b);
             M3(b);
             M4(b);
-
+            //GC.Collect();
+            //GC.WaitForPendingFinalizers();
         }
 
         static void M1(A a)
@@ -75,5 +80,6 @@ namespace IPractice.Fullnheritance
 
         }
 
+   
     }
 }
