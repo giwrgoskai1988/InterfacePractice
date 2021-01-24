@@ -42,15 +42,7 @@ namespace IPractice.Food
             FastFood();
             Console.WriteLine("Sandwich");
         }
-        //public static void Main()
-        //{
-        //    IFastFood f = new Sandwich();
-
-        //    f.FastFood();
-        //    Console.WriteLine("------------------------------------------------------------------------------------------------------------");
-        //    Sandwich a = new Sandwich();
-        //    a.FastFood();
-        //}
+    
 
         public void FastFood()
         {

@@ -6,6 +6,12 @@ namespace IPractice.Fullnheritance
     class ClassB : ClassA, D
     {
 
+        public override void PrintMe()
+        {
+            base.PrintMe();
+            Console.WriteLine("Abstract from B");
+        }
+
         public void Print()
         {
             Console.WriteLine("A!!");
@@ -47,39 +53,5 @@ namespace IPractice.Fullnheritance
             Console.WriteLine("Done");
         }
 
-        static void Main()
-        {
-            ClassB b = new ClassB();
-            M1(b);
-            M2(b);
-            M3(b);
-            M4(b);
-            //GC.Collect();
-            //GC.WaitForPendingFinalizers();
-        }
-
-        static void M1(A a)
-        {
-            a.Print();
-            a.Print("hey");
-        }
-
-        static void M2(B b)
-        {
-            b.Save();
-            b.Save("B");
-        }
-        static void M3(C c)
-        {
-            c.Request();
-            c.Request("C");
-        }
-        static void M4(D d)
-        {
-            d.Write();
-
-        }
-
-   
     }
 }
